@@ -26,8 +26,8 @@ HenCoder 绘制 1 练习项目
 练习做完，绘制第一期分享的内容也就掌握得差不多了。
 
 ### 完成作业
-![](images/1.jpg)
-![](images/2.jpg)
+<img src="images/1.jpg" width="400" height="600"/>
+<img src="images/2.jpg" width="400" height="600"/>
 
 ### 关于有些方法无效
 
